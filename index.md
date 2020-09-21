@@ -1,3 +1,13 @@
+## LaTeX
+
+$$\int$$
+and 
+$$
+\begin{eqauation}
+\int_t^T
+\end{equation}
+$$
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/suci1980/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
